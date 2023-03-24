@@ -6,6 +6,13 @@ To compile this library, it requires QtCreator from  https://www.qt.io/download
 
 During compilation, QtCreator generates a build folder. Copy the contents of the /bin folder of this repository inside the build folder, where the compiler saves the executable file.
 
+### Prerequisites
+
+Qt Creator 
+
+Python 3
+
+PyQt5
 
 
 ### Using the GUI
