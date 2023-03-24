@@ -37,9 +37,9 @@ FastQ Directory: Folder that contains the FastQ (uncompressed) files.
 ###### Addressing: 
 Select one of the addressing schemes
 
-Barcode : First set of barcodes used to identify the registers [Experiment x]. 
+Barcode : First combination of barcodes used to identify the registers. 
 
-Barcode2: Second set of barcodes used to identify the registers [Experiment x]. 
+Barcode2: Second combination of barcodes used to identify the registers. 
 
 shuffle : Combination of high entropy shuffling domains and low entropy shuffling domains for addressing.
 
